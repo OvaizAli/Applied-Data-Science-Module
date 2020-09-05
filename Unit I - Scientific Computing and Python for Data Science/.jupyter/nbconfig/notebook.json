@@ -1,0 +1,10 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": false
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  }
+}
